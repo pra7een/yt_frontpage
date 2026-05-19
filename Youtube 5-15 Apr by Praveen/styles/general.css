@@ -1,0 +1,18 @@
+p {
+  font-family: Roboto, Arial;
+  margin-top: 0;
+  margin-bottom: 0;  
+}
+
+body{
+  margin: 0;
+  padding-top: 90px;
+  padding-left: 90px;
+}
+
+
+/*---padding: top right bottom left; and same for MARGIN also
+  ---border: width border-stylr color; ex- border: 1px solid rgba
+  ---instead of using font family to different places, just put it in the body and it's done
+
+*/
